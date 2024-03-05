@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Документи</title>
+</head>
+<body>
+<h1>Система класів для документів (типу Дія)</h1>
+<div class="document-container">
+  <div class="document" id="passport">
+    <h2>Паспорт</h2>
+    <img src="паспорт.jpg" alt="Паспорт фото">
+    <p>Ім'я: Сковлюк Матвій</p>
+    <button onclick="documents['passport'].showInfo()">Показати інфо</button>
+    <button onclick="documents['passport'].generateQR()">Згенерувати QR</button>
+  </div>
+
+  <div class="document" id="driverLicense">
+    <h2>Водійське посвідчення</h2>
+    <img src="водійське.jpeg" alt="Фото водійське посвідчення">
+    <p>Ім'я: Сковлюк Матвій</p>
+    <button onclick="documents['driverLicense'].showInfo()">Показати інфо</button>
+    <button onclick="documents['driverLicense'].registerCar()">Зареєструвати ав-то</button>
+  </div>
+
+  <div class="document" id="militaryID">
+    <h2>ЄДокумент</h2>
+    <img src="єдок.jpg" alt="Фото Єдокумент">
+    <p>Ім'я: Сковлюк Матвій</p>
+    <button onclick="documents['militaryID'].hideInfo()">Приховати інфо</button>
+    <button onclick="documents['militaryID'].copyID()">Скопіювати ID</button>
+  </div>
+</div>
+
+
+<script src="documents.js"></script>
+</body>
+</html>
