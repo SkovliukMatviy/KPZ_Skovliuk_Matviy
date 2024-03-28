@@ -1,0 +1,15 @@
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.csproj.AssemblyReference.cache
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.AssemblyInfoInputs.cache
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.AssemblyInfo.cs
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.csproj.CoreCompileInputs.cache
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\bin\Debug\net7.0\Task5.exe
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\bin\Debug\net7.0\Task5.deps.json
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\bin\Debug\net7.0\Task5.runtimeconfig.json
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\bin\Debug\net7.0\Task5.dll
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\bin\Debug\net7.0\Task5.pdb
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.dll
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\refint\Task5.dll
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.pdb
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\Task5.genruntimeconfig.cache
+D:\Лаби ІПЗ_22_4\2 Курс\2 Семестр\Конструювання програмного забезпеч\KPZ_Skovliuk_Matviy\Lab2\Task5\obj\Debug\net7.0\ref\Task5.dll
